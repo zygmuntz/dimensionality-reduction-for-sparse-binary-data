@@ -1,0 +1,32 @@
+ORIG
+
+# accuracy: 0.8485351 
+# auc: 0.8792633 
+
+
+LSI (+ TF-IDF)
+
+# accuracy: 0.8295559 
+# auc: 0.8588338 
+
+LSI 20 (+ TF-IDF)
+
+# accuracy: 0.8294945 
+# auc: 0.8592035 
+
+
+RP (+ TF-IDF)
+
+# accuracy: 0.806093 
+# auc: 0.8047654 
+
+
+LDA + TF-IDF
+
+# accuracy: 0.788895 
+# auc: 0.8091261 
+
+LDA
+
+# accuracy: 0.8308458 
+# auc: 0.826304 
