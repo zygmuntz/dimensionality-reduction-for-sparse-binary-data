@@ -10,7 +10,5 @@ gensim_add_labels.py data/orig/all.txt data/lsi_all_.txt data/lsi_all.txt
 first.py data/lsi_all.txt data/lsi_train.txt 32561
 first.py data/lsi_all.txt data/lsi_test.txt 99999 32561
 
-# count.py data/lsi_test.txt
-
 libsvm2csv.py data/lsi_train.txt data/lsi_train.csv 10
 libsvm2csv.py data/lsi_test.txt data/lsi_test.csv 10
