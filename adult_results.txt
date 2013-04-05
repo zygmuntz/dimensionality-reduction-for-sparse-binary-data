@@ -1,4 +1,6 @@
-ORIG
+Scores from a random forest with 100 trees.
+
+ORIG DATA
 
 # accuracy: 0.8485351 
 # auc: 0.8792633 
