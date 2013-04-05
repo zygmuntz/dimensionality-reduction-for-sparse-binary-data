@@ -30,3 +30,40 @@ LDA
 
 # accuracy: 0.8308458 
 # auc: 0.826304 
+
+
+
+ASPECT 10
+
+# accuracy: 0.8231681 
+# auc: 0.8653033 
+
+ASPECT 50
+
+# accuracy: 0.8366808 
+# auc: 0.8866067 
+
+SPAMS NMF
+
+# accuracy: 0.8220625 
+# auc: 0.8639657 
+
+SPAMS NMF + TF-IDF
+
+# accuracy: 0.8258092 
+# auc: 0.865312 
+
+CTM
+
+# accuracy: 0.8247036 
+# auc: 0.8534664 
+
+ICA 10/10
+
+# accuracy: 0.8259935 
+# auc: 0.8647878
+
+ICA (+ TFIDF) 10/10 w/stabilization
+
+# accuracy: 0.8273448 
+# auc: 0.8653916 

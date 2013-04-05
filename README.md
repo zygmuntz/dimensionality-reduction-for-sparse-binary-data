@@ -12,7 +12,10 @@ See [http://fastml.com/dimensionality-reduction-for-sparse-binary-data/](http://
 	gensim_lda.py - perform LDA conversion
 	gensim_lsi.py - perform LSI conversion
 	gensim_rp.py - perform random projections conversion
+	gensim_tfidf.py - perform TF-IDF preprocessing
 	
 	libsvm2csv.py - convert libsvm file to csv
 	rf.r - random forest code used for testing
+	
+	spams_nmf.py - perform NMF conversion. Requires SPAMS and scikit-learn for tf-idf.
 	
